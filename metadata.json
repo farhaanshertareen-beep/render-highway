@@ -1,0 +1,6 @@
+{
+  "name": "Balochistan Smart Highway Watch",
+  "description": "Proactive highway safety, live weather risk monitoring, SOS dispatch, checkpoint QR tracking, and multilingual driver alerts across Balochistan corridors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
